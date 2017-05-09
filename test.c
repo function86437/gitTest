@@ -1,6 +1,6 @@
 #include<stdio.h>
 //aaa
-//ccc
+//ddd
 void main(void){
 	printf("%d",5);
 	}
